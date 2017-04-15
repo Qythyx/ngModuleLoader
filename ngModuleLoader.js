@@ -1,4 +1,5 @@
 // Copyright 2017 Rainer Mager under the MIT License
+// https://github.com/Qythyx/ngModuleLoader
 
 /**
  * Base object for dynamically loading Angular JS modules and dependencies.
